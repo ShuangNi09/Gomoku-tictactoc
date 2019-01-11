@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I followed the instruction on this [tutorial](https://reactjs.org/tutorial/tutorial.html). I changed the 3X3 board to 10X10 board and make the winning rule as 5 Xs or Os on the same line. The history is stored and the player can go back to any step.
 
+The board looks like:
+![Alt text](img/board.png "board")
+
 ## Available Scripts
 
 In the project directory, you can run:
