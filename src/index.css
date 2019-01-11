@@ -3,7 +3,7 @@ body {
   margin-top: 135px;
   margin-left: 360px;
   margin-bottom: 451px;
-  background-color: #1f1f1f;
+  background-color: #ebecf0;
 }
 
 ol,
@@ -22,7 +22,22 @@ ul {
 }
 
 .square {
-  background: #1f1f1f;
+  background: #678659;
+  border: 1px solid #cbcde2;
+  float: left;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -4.5px;
+  margin-top: -4.5px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+.squar {
+  background: #cfdcd7;
   border: 1px solid #cbcde2;
   float: left;
   font-size: 25px;
@@ -41,14 +56,14 @@ ul {
 }
 
 .kbd-navigation .square:focus {
-  background: #1f1f1f;
+  background: #ebecf0;
 }
 
 .game {
   display: flex;
   flex-direction: row;
-  background-color: #1f1f1f;
-  -webkit-text-fill-color: #f4656d;
+  background-color: #ebecf0;
+  -webkit-text-fill-color: #1f1f1f;
   text-emphasis: bold;
   text-emphasis-color: #1f1f1f;
 }
