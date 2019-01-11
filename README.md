@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I followed the instruction on [tutorial](https://reactjs.org/tutorial/tutorial.html). I changed the 3X3 board to 10X10 board and make the winning rule as 5 Xs or Os on the same line. The history is stored and the player can go back to any step. 
+I followed the instruction on this [tutorial](https://reactjs.org/tutorial/tutorial.html). I changed the 3X3 board to 10X10 board and make the winning rule as 5 Xs or Os on the same line. The history is stored and the player can go back to any step. 
 
 ## Available Scripts
 
